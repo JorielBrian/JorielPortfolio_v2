@@ -1,0 +1,261 @@
+{
+    "keyqualifications": [
+        {
+            "id": "1",
+            "position": "Systems Analyst and Computer Programmer",
+            "image": "",
+            "alt": "systems analyst",
+            "description": [
+                {"duty": "• Using Excel or Access to encode and organize data given by our clients (LGU, Manila Water Inc.)."},
+                {"duty": "• Programming in R to process data and generate docx and HTML reports with graphs."},
+                {"duty": "• Assisting to create 2D and 3D dxf files to be used on different traffic scenario simulations."},
+                {"duty": "• Create trajectories and simulate traffic scenarios to collect and generate data. With Cube Dynasim."},
+                {"duty": "• Conducting road surveys of the given locations."},
+                {"duty": "• Collecting data and information from the local government or the given area."},
+                {"duty": "• Installing hardware devices to public vehicles to conduct road surveys."},
+                {"duty": "• Installing software and hardware devices to be used on the project operations."},
+                {"duty": "• Assembling hardware components and electronics to help the hardware officers."},
+                {"duty": "• Conducting research and creating PowerPoint reports for meeting presentations."},
+                {"duty": "• Creating KML files with Google Earth Pro."},
+                {"duty": "• Perform other duties as may be required by the project."}
+            ]
+        },
+        {
+            "id": "2",
+            "position": "Information Technology Officer I",
+            "image": "",
+            "alt": "informatin technology officer i",
+            "description": [
+                {"duty": "• Develop R shiny application for the web page dashboard."},
+                {"duty": "• Process data depending on the user inputs and generate outputs with the use of tables, graphs, interactive maps, and downloadable reports in HTML file format."},
+                {"duty": "• Collaborating with the backend for the connection database and to improve usability."},
+                {"duty": "• Debugging, testing, and monitoring web page program and data."},
+                {"duty": "• Perform other duties as may be required by the project."}
+            ]
+        },
+        {
+            "id":"3",
+            "position":"Data Analyst / R Programmer",
+            "image": "",
+            "alt":"data analyst and r programmer",
+            "description": [
+                {"duty":"• Assisting Sketchup 2D base map and inventory."},
+                {"duty":"• Assisting Sketchup 3D road model."},
+                {"duty":"• Contribute development for simulation and analysis."},
+                {"duty":"• Survey road measurements."},
+                {"duty":"• Collecting different vehicle travel data and traffic flow by following different vehicles using a bike."},
+                {"duty":"• Develop R markdown program to collect data and generate document reports"},
+                {"duty":"• Improving R program for displaying presentable tables and graphs."},
+                {"duty":"• Perform other duties as may be required by the project."}
+            ]
+        },
+        {
+            "id":"4",
+            "position":"Computer Programmer II",
+            "image": "",
+            "alt":"computer programmer ii",
+            "description": [
+                {"duty":"• Develop a responsive front-end web page with interactive map with the use of HTML, CSS, and JavaScript."},
+                {"duty":"• Determining the structure and design."},
+                {"duty":"• Displaying locations of the data chosen by the user and allowing the user to report, add information, and data to be sent to the database."},
+                {"duty":"• Debugging and monitoring the web operations with the coordination of the backend developers."},
+                {"duty":"• Perform other duties as may be required by the project."}
+            ]
+        },
+        {
+            "id":"5",
+            "position":"Data Analyst / R Programmer",
+            "image": "./images/ExpImages/encoding.jpg",
+            "alt":"data analyst and r programmer",
+            "description": [
+                {"duty":"• Assisting Sketchup 2D base map and inventory"},
+                {"duty":"• Contribute development for simulation and analysis."},
+                {"duty":"• Encoding collected data from Mandaluyong West Sewerage System survey"},
+                {"duty":"• Develop R markdown program to collect data and generate document reports"},
+                {"duty":"• Improving R program for displaying presentable tables and graphs."},
+                {"duty":"• Perform other duties as may be required by the project."}
+            ]
+        }
+    ],
+    "trainings": [
+        {
+            "id":"1",
+            "position":"On-Job Training",
+            "employer":"STRIDE Consulting Inc.",
+            "period":""
+        },
+        {
+            "id":"2",
+            "position":"On-Job Training",
+            "employer":"STRIDE Consulting Inc.",
+            "period":""
+        },
+        {
+            "id":"3",
+            "position":"On-Job Training",
+            "employer":"STRIDE Consulting Inc.",
+            "period":""
+        }
+    ],
+    "employments": [
+        {
+            "id":"1",
+            "position":"System Analyst / Data Analyst / R Programmer",
+            "employer":"STRIDE Consulting Inc.",
+            "period":"October 2020 – July 2023"
+        },
+        {
+            "id":"2",
+            "position":"Information Technology Officer I",
+            "employer":"City Government of Puerto Princesa",
+            "period":"November 2022 – December 2022"
+        },
+        {
+            "id":"3",
+            "position":"Data Analyst / R Programmer",
+            "employer":"STRIDE Consulting Inc. / Manila Water Co.",
+            "period":"November 2021 – March 2022"
+        },
+        {
+            "id":"4",
+            "position":"Computer Programmer II",
+            "employer":"University of the Philippines, Diliman, NCPAG",
+            "period":"June 2021 – January 2022"
+        },
+        {
+            "id":"5",
+            "position":"Data Analyst / R Programmer",
+            "employer":"STRIDE Consulting Inc. / Manila Water Co.",
+            "period":"April 2021 – December 2021"
+        },
+        {
+            "id":"6",
+            "position":"Bagger / Cashier / Selling Officer / Receiving and Return Personnel",
+            "employer":"Ultra Mega Multi Sales",
+            "period":"July 2020 – October 2020"
+        },
+        {
+            "id":"7",
+            "position":"On-Job Training",
+            "employer":"STRIDE Consulting Inc",
+            "period":"November 2019 – March 2020"
+        },
+        {
+            "id":"8",
+            "position":"Dining Crew",
+            "employer":"Scotland Inc. (Bon Chon)",
+            "period":"October 2019 – May 2020"
+        },
+        {
+            "id":"9",
+            "position":"Team Member",
+            "employer":"Ice Dream Inc. (Baskin Robbins)",
+            "period":"May 2019 – September 2019"
+        },
+        {
+            "id":"10",
+            "position":"On-Job Training",
+            "employer":"STRIDE Consulting Inc",
+            "period":"April 2017 – May 2017"
+        },
+        {
+            "id":"11",
+            "position":"On-Job Training",
+            "employer":"STRIDE Consulting Inc",
+            "period":"April 2016 – May 2016"
+        }
+    ],
+    "education":[
+        {
+            "id":"1",
+            "school":"Polytechnic University of the Philippines",
+            "course":"Diploma in Computer Engineering Technology",
+            "period":"2015-2023",
+            "address":"",
+            "info":"I started on 2015 and stopped at 2018 due to family situations, continue at 2018 and stopped at 2019 due to pandemic, continue on 2022 and graduated on April 2023"
+        },
+        {
+            "id":"2",
+            "school":"Virgen Del Pilar School",
+            "course":"High School",
+            "period":"2011-2015",
+            "address":"",
+            "info":""
+        },
+        {
+            "id":"3",
+            "school":"Lifespring Academy of Quezon City",
+            "course":"Elementary",
+            "period":"2005-2011",
+            "address":"",
+            "info":""
+        }
+    ],
+    "skills": [
+        {
+            "id":"1",
+            "name":"HTML",
+            "img":"",
+            "alt":""
+        },
+        {
+            "id":"2",
+            "name":"CSS",
+            "img":"",
+            "alt":""
+        },
+        {
+            "id":"3",
+            "name":"JavaScript",
+            "img":"",
+            "alt":""
+        },
+        {
+            "id":"4",
+            "name":"Tailwind CSS",
+            "img":"",
+            "alt":""
+        },{
+            "id":"5",
+            "name":"React",
+            "img":"",
+            "alt":""
+        },
+        {
+            "id":"6",
+            "name":"Vite",
+            "img":"",
+            "alt":""
+        },
+        {
+            "id":"7",
+            "name":"Github",
+            "img":"",
+            "alt":""
+        },
+        {
+            "id":"8",
+            "name":"R Programming",
+            "img":"",
+            "alt":""
+        },
+        {
+            "id":"9",
+            "name":"Computer Assembling",
+            "img":"",
+            "alt":""
+        },
+        {
+            "id":"10",
+            "name":"Circuit Assembling",
+            "img":"",
+            "alt":""
+        },
+        {
+            "id":"11",
+            "name":"Soldering",
+            "img":"",
+            "alt":""
+        }
+    ]
+}
