@@ -20,7 +20,7 @@ const Navbar = () =>{
     }
 
     return(
-        <div className="navbar w-full h-20 flex flex-wrap sticky top-2 items-center justify-between bg-gradient-to-r from-blue-800 to-slate-950 bg-opacity-90 rounded-md">
+        <div className="navbar w-full h-20 flex flex-wrap sticky top-2 z-10 items-center justify-between bg-gradient-to-r from-blue-800 to-slate-950 bg-opacity-90 rounded-md">
             <div id="title-container" className="group w-1/2 flex flex-wrap pl-5 pb-1 pt-1 text-6xl font-bold transition ease-out duration-1000">
                 <h1 id="joriel" className="w-7 h-20 overflow-hidden text-blue-950 group-hover:w-auto">Joriel</h1>
                 <h1 id="brian" className="w-[42px] h-20 overflow-hidden text-gray-600 group-hover:w-auto">Brian</h1>

@@ -2,8 +2,8 @@
     "keyqualifications": [
         {
             "id": "1",
-            "position": "Systems Analyst and Computer Programmer",
-            "image": "",
+            "position": "Systems Analyst and Programmer",
+            "image": "./data/images/ExpImages/hardsoftware.jpg",
             "alt": "systems analyst",
             "description": [
                 {"duty": "• Using Excel or Access to encode and organize data given by our clients (LGU, Manila Water Inc.)."},
@@ -23,7 +23,7 @@
         {
             "id": "2",
             "position": "Information Technology Officer I",
-            "image": "",
+            "image": "./data/images/ExpImages/dataanalyst.png",
             "alt": "informatin technology officer i",
             "description": [
                 {"duty": "• Develop R shiny application for the web page dashboard."},
@@ -35,8 +35,8 @@
         },
         {
             "id":"3",
-            "position":"Data Analyst / R Programmer",
-            "image": "",
+            "position":"Data Analyst and R Programmer",
+            "image": "./data/images/ExpImages/wdImg.jpg",
             "alt":"data analyst and r programmer",
             "description": [
                 {"duty":"• Assisting Sketchup 2D base map and inventory."},
@@ -52,7 +52,7 @@
         {
             "id":"4",
             "position":"Computer Programmer II",
-            "image": "",
+            "image": "./data/images/ExpImages/webdesign.jpg",
             "alt":"computer programmer ii",
             "description": [
                 {"duty":"• Develop a responsive front-end web page with interactive map with the use of HTML, CSS, and JavaScript."},
@@ -64,8 +64,8 @@
         },
         {
             "id":"5",
-            "position":"Data Analyst / R Programmer",
-            "image": "./images/ExpImages/encoding.jpg",
+            "position":"Data Analyst and R Programmer",
+            "image": "./data/images/ExpImages/encoding.jpg",
             "alt":"data analyst and r programmer",
             "description": [
                 {"duty":"• Assisting Sketchup 2D base map and inventory"},
@@ -172,7 +172,8 @@
             "course":"Diploma in Computer Engineering Technology",
             "period":"2015-2023",
             "address":"",
-            "info":"I started on 2015 and stopped at 2018 due to family situations, continue at 2018 and stopped at 2019 due to pandemic, continue on 2022 and graduated on April 2023"
+            "info":"I started on 2015 and stopped at 2018 due to family situations, continue at 2018 and stopped at 2019 due to pandemic, continue on 2022 and graduated on April 2023",
+            "image":"./data/images/EduImages/pupBG1.jpeg"
         },
         {
             "id":"2",
@@ -180,7 +181,8 @@
             "course":"High School",
             "period":"2011-2015",
             "address":"",
-            "info":""
+            "info":"",
+            "image":"./data/images/EduImages/vdpsBG1.jpeg"
         },
         {
             "id":"3",
@@ -188,74 +190,158 @@
             "course":"Elementary",
             "period":"2005-2011",
             "address":"",
-            "info":""
+            "info":"",
+            "image":"./data/images/EduImages/laqcBG1.jpg"
         }
     ],
     "skills": [
         {
             "id":"1",
             "name":"HTML",
-            "img":"",
-            "alt":""
+            "img":"./data/images/SkillsImage/html.png",
+            "alt":"html",
+            "level":"Experienced"
         },
         {
             "id":"2",
             "name":"CSS",
-            "img":"",
-            "alt":""
+            "img":"./data/images/SkillsImage/css.png",
+            "alt":"css",
+            "level":"Experienced"
         },
         {
             "id":"3",
             "name":"JavaScript",
-            "img":"",
-            "alt":""
+            "img":"./data/images/SkillsImage/js.png",
+            "alt":"javascript",
+            "level":"Experienced"
         },
         {
             "id":"4",
             "name":"Tailwind CSS",
-            "img":"",
-            "alt":""
-        },{
+            "img":"./data/images/SkillsImage/tailwind.png",
+            "alt":"tailwindcss",
+            "level":"Intermediate"
+        },
+        {
             "id":"5",
-            "name":"React",
-            "img":"",
-            "alt":""
+            "name":"Bootstrap",
+            "img":"./data/images/SkillsImage/bootstrap.png",
+            "alt":"bootstrap",
+            "level":"Beginner"
         },
         {
             "id":"6",
-            "name":"Vite",
-            "img":"",
-            "alt":""
+            "name":"React",
+            "img":"./data/images/SkillsImage/react.png",
+            "alt":"react",
+            "level":"Intermediate"
         },
         {
             "id":"7",
-            "name":"Github",
-            "img":"",
-            "alt":""
+            "name":"Vite",
+            "img":"./data/images/SkillsImage/vite.png",
+            "alt":"vite",
+            "level":"Intermediate"
         },
         {
             "id":"8",
-            "name":"R Programming",
-            "img":"",
-            "alt":""
+            "name":"GIT",
+            "img":"./data/images/SkillsImage/git.png",
+            "alt":"git",
+            "level":"Experienced"
         },
         {
             "id":"9",
-            "name":"Computer Assembling",
-            "img":"",
-            "alt":""
+            "name":"Github",
+            "img":"./data/images/SkillsImage/github.png",
+            "alt":"github",
+            "level":"Experienced"
         },
         {
             "id":"10",
-            "name":"Circuit Assembling",
-            "img":"",
-            "alt":""
+            "name":"Node.js",
+            "img":"./data/images/SkillsImage/node.png",
+            "alt":"node",
+            "level":"Beginner"
         },
         {
             "id":"11",
+            "name":"Express.js",
+            "img":"./data/images/SkillsImage/express.png",
+            "alt":"express",
+            "level":"Brief Knowledge"
+        },
+        {
+            "id":"12",
+            "name":"NoSQL",
+            "img":"./data/images/SkillsImage/nosql.png",
+            "alt":"nosql",
+            "level":"Brief Knowledge"
+        },
+        {
+            "id":"13",
+            "name":"SQL",
+            "img":"./data/images/SkillsImage/sql.png",
+            "alt":"sql",
+            "level":"Brief Knowledge"
+        },
+        {
+            "id":"14",
+            "name":"PHP",
+            "img":"./data/images/SkillsImage/php.png",
+            "alt":"php",
+            "level":"Brief Knowledge"
+        },
+        {
+            "id":"15",
+            "name":"GraphQL",
+            "img":"./data/images/SkillsImage/graphql.png",
+            "alt":"graphql",
+            "level":"Brief Knowledge"
+        },
+        {
+            "id":"16",
+            "name":"Linux Ubuntu",
+            "img":"./data/images/SkillsImage/ubuntu.png",
+            "alt":"ubuntu",
+            "level":"Beginner"
+        },
+        {
+            "id":"17",
+            "name":"R Programming",
+            "img":"./data/images/SkillsImage/r.png",
+            "alt":"r",
+            "level":"Experienced"
+        },
+        
+        {
+            "id":"18",
+            "name":"R Shiny App",
+            "img":"./data/images/SkillsImage/r.png",
+            "alt":"r",
+            "level":"Experienced"
+        },
+        {
+            "id":"19",
+            "name":"Computer Assembling",
+            "img":"./data/images/SkillsImage/computerassembling.png",
+            "alt":"computer",
+            "level":"Experienced"
+        },
+        {
+            "id":"20",
+            "name":"Circuit Assembling",
+            "img":"./data/images/SkillsImage/circuitassembling.png",
+            "alt":"circuit",
+            "level":"Experienced"
+        },
+        {
+            "id":"21",
             "name":"Soldering",
-            "img":"",
-            "alt":""
+            "img":"./data/images/SkillsImage/soldering.png",
+            "alt":"soldering",
+            "level":"Experienced"
         }
     ]
 }

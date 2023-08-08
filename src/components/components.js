@@ -8,3 +8,5 @@ export { default as Trainings } from './Trainings';
 export { default as Skills } from './Skills'
 export { default as Contacts } from './Contacts'
 export { default as Home } from './pages/Home'
+export { default as Card } from './Card'
+export { default as Social } from './Social'

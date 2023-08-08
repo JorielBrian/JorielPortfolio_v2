@@ -1,3 +1,5 @@
+import { Social } from './components'
+
 const Welcome = () => {
     return(
         <div id="home" className="w-full">
@@ -7,6 +9,7 @@ const Welcome = () => {
                     <h1 className="text-2xl sm:text-4xl lg:text-5xl">Joriel Brian S. Sudario</h1>
                     <h1 className="text-4xl sm:text-5xl lg:text-6xl">Front-End Developer</h1>
                     <h1 className="text-md sm:text-lg lg:text-3xl">HTML, CSS, JavaScript, Tailwind, React</h1>
+                    <Social className="text-start" />
                 </div>
                 <div id="right-welcome" className="w-1/3 text-white">
                     <h1 className="place-content-center">picture here</h1>
