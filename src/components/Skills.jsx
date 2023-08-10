@@ -4,7 +4,7 @@ const Skills = () => {
     const { data: skills, loading, error } = useFetch('http://localhost:8080/skills')
     return ( 
         <div id="skills" className="flex w-full my-10 text-white">
-            <div id="skills-container" className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-7 gap-2 m-auto">
+            <div id="skills-container" className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-7 gap-6 m-auto">
                 { error && <div><h1 className="text-2xl">{error}</h1></div> }
                 { loading && <div><h1 className="text-2xl">Loading...</h1></div> }
                 { skills && skills.map(skill => (

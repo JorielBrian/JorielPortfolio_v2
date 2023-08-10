@@ -14,6 +14,7 @@ body{
 }
 #title-container{
     text-shadow: 4px 4px 4px black;
+    transition: 1000ms ease-out;
 }
 
 .card-container{   
